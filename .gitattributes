@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.gd text diff=gdscript
+*.tscn text
+*.tres text
+*.png binary
+*.wav binary
+*.fnt binary
