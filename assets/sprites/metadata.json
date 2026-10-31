@@ -1,0 +1,155 @@
+{
+  "bg_tablero": {
+    "origin": [
+      0,
+      0
+    ],
+    "size": [
+      640,
+      480
+    ],
+    "bbox": [
+      0,
+      0,
+      63,
+      63
+    ],
+    "collision_kind": 1
+  },
+  "spr_bola": {
+    "origin": [
+      10,
+      10
+    ],
+    "size": [
+      21,
+      20
+    ],
+    "bbox": [
+      1,
+      0,
+      19,
+      19
+    ],
+    "collision_kind": 1
+  },
+  "spr_btn_10_puntos": {
+    "origin": [
+      140,
+      20
+    ],
+    "size": [
+      280,
+      40
+    ],
+    "bbox": [
+      40,
+      8,
+      242,
+      30
+    ],
+    "collision_kind": 1
+  },
+  "spr_btn_3_puntos": {
+    "origin": [
+      100,
+      20
+    ],
+    "size": [
+      200,
+      40
+    ],
+    "bbox": [
+      5,
+      9,
+      193,
+      31
+    ],
+    "collision_kind": 1
+  },
+  "spr_btn_salir": {
+    "origin": [
+      100,
+      20
+    ],
+    "size": [
+      200,
+      40
+    ],
+    "bbox": [
+      42,
+      8,
+      153,
+      30
+    ],
+    "collision_kind": 1
+  },
+  "spr_creditos": {
+    "origin": [
+      100,
+      20
+    ],
+    "size": [
+      200,
+      40
+    ],
+    "bbox": [
+      25,
+      12,
+      171,
+      27
+    ],
+    "collision_kind": 1
+  },
+  "spr_jugador": {
+    "origin": [
+      8,
+      29
+    ],
+    "size": [
+      16,
+      59
+    ],
+    "bbox": [
+      0,
+      0,
+      15,
+      58
+    ],
+    "collision_kind": 1
+  },
+  "spr_opciones": {
+    "origin": [
+      100,
+      20
+    ],
+    "size": [
+      200,
+      40
+    ],
+    "bbox": [
+      35,
+      12,
+      158,
+      25
+    ],
+    "collision_kind": 1
+  },
+  "spr_titulo": {
+    "origin": [
+      140,
+      48
+    ],
+    "size": [
+      280,
+      96
+    ],
+    "bbox": [
+      28,
+      12,
+      252,
+      83
+    ],
+    "collision_kind": 1
+  }
+}

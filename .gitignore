@@ -1,0 +1,9 @@
+.godot/
+builds/
+
+# Extra ignored nodes
+.godot/
+builds/
+*.pck
+*.AppImage
+*.zip
